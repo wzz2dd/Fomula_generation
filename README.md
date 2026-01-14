@@ -18,7 +18,7 @@ Nectar is a Python package designed to optimize Traditional Chinese Medicine (TC
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ChenHuangMUST/NeCTAR.git
+   git clone https://github.com/wzz2dd/Fomula_generation.git
    cd nectar
    ```
 
